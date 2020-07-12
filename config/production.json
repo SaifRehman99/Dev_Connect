@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://SAIF123:SAIF123@devconnector-cspr6.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "fmvdsaoigaksdlmcl/dsak903qu4e-=30-PDX4SSdE]-3  =-2pdk[SDLKKA",
+  "githubID": "e55a222476bb3154f890",
+  "githubSecret": "8f27ed39f982d51e824249c597cdbfbf482a025b"
+}
